@@ -1,0 +1,26 @@
+.m-16-0 {
+  margin: 16px 0;
+}
+
+.table  th {
+  min-width: 130px;
+}
+
+.table .btn-sm {
+  margin: 2px;
+}
+
+#chart {
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+#chart > div {
+  width: 30%;
+  display: inline-block;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}

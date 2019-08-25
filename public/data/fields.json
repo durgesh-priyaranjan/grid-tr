@@ -1,0 +1,40 @@
+{
+    "fields": [
+        {
+            "name": "username",
+            "label": "Username",
+            "canSortOn": true,
+            "canGroupOn": true,
+            "canSearchOn": true
+        },
+        {
+            "name": "game",
+            "label": "Game",
+            "canSortOn": true,
+            "canGroupOn": true,
+            "canSearchOn": true
+        },
+        {
+            "name": "difficultyLevel",
+            "label": "Difficulty Level",
+            "canSortOn": true,
+            "canGroupOn": true,
+            "canSearchOn": true
+        },
+        {
+            "name": "score",
+            "label": "Score",
+            "canSortOn": true,
+            "canGroupOn": true,
+            "canSearchOn": true
+        },
+        {
+            "name": "startTimestamp",
+            "label": "Start Time (Datetime)"
+        },
+        {
+            "name": "endTimestamp",
+            "label": "End Time (Datetime)"
+        }
+    ]
+}

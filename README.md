@@ -23,5 +23,6 @@ TODOS:
 Screenshots:
 ![Full Grid](https://i.postimg.cc/GmcJB7y2/Screenshot-2019-08-25-at-5-25-19-PM.png)
 ![Column Visibility Toggle and Sequence Change](https://i.postimg.cc/J435zVtv/Screenshot-2019-08-25-at-5-26-33-PM.png)
+![Analytics Screen](https://postimg.cc/p9gCvHZv)
 ![Search](https://i.postimg.cc/xTVPQTjL/Screenshot-2019-08-25-at-5-27-24-PM.png)
 ![Pagination](https://i.postimg.cc/fL6fJMcn/Screenshot-2019-08-25-at-5-27-48-PM.png)
